@@ -8,5 +8,6 @@ To run the script, you need root privileges. Navigate to the directory containin
 
 ```bash
 git clone https://github.com/Ducheved/cute_wol
+cd cute_wol/
 chmod +x wol.sh
 bash ./wol.sh

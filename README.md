@@ -9,7 +9,7 @@ This repository contains a shell script (`wol.sh`) that manages the Wake-on-LAN 
 To run the script, you need root privileges. Navigate to the directory containing the script and run:
 
 ```bash
-git clone https://github.com/Ducheved/cute_wol
+git clone https://github.com/Ducheved/Cute.WOL
 cd cute_wol/
 chmod +x wol.sh
 bash ./wol.sh
